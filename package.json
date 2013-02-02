@@ -43,7 +43,6 @@
     "gitio": "1.0.1",
     "querystring": "0.1.0",
     "moment": "x"
-
   },
   "engines": {
     "node": ">= 0.8.7",
