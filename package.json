@@ -42,7 +42,7 @@
     "validator" : "0.4.20",
     "gitio": "1.0.1",
     "querystring": "0.1.0",
-    "moment": "x"
+    "moment": "x" 
   },
   "engines": {
     "node": ">= 0.8.7",
